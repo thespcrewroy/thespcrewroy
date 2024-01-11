@@ -1,4 +1,4 @@
-# Hi there, I'm Swapnil Roy 👋 
+# Hi there, I'm Swapnil 👋 
 
 ## I'm currently a Student at the University of Georgia!!
 
