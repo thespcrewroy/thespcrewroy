@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Swapnil 👋</h1>
 <h3 align="center">A passionate computer science student at the University of Georgia! Go Dawgs!!</h3>
 ---
-<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="Coding" width="550" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thespcrewroy&label=Profile%20views&color=0e75b6&style=flat" alt="thespcrewroy" /> </p>
 
