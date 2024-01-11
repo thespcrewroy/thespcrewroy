@@ -1,4 +1,4 @@
-# Hi there, I'm Swapnil 👋 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi there, I'm Swapnil 👋. aka thespcrewroy" src="./assets/gh-readme-header.png" /></a></p>
 
 ## I'm currently a Student at the University of Georgia!!
 
