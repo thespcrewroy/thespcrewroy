@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://github.com/thespcrewroy)
 <h1 align="center">Hi there, I'm Swapnil 👋</h1>
 <h3 align="center">A passionate computer science student at the University of Georgia! Go Dawgs!!</h3>
-
+---
 <img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thespcrewroy&label=Profile%20views&color=0e75b6&style=flat" alt="thespcrewroy" /> </p>
