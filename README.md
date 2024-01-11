@@ -13,7 +13,7 @@
 - 💬 Ask me about **Java & C++**
 - 🥅 2024 Goals: Contribute to more open source projects
 - ⚡ Fun fact **I love to travel and play guitar**
-- - 📫 How to reach me **royswapnil07@gmail.com**
+- 📫 How to reach me **royswapnil07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
