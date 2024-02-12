@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 - 👯 I’m looking for a summer internship 💥
-- 💬 Ask me about **Java, C++, & Swift**
+- 💬 Ask me about **Java & Swift**
 - 🥅 2024 Goals: Build my personal website
 - ⚡ Fun fact **I love to travel and play guitar**
 - 📫 How to reach me **royswapnil07@gmail.com**
