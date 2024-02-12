@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/thespcrewroy" target="blank"><img src="https://img.shields.io/twitter/follow/thespcrewroy?logo=twitter&style=for-the-badge" alt="thespcrewroy" /></a> </p>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Javascript**
 - 👯 I’m looking for a summer internship 💥
-- 💬 Ask me about **Java & C++**
-- 🥅 2024 Goals: Contribute to more open source projects
+- 💬 Ask me about **Java, C++, & Swift**
+- 🥅 2024 Goals: Build my personal website
 - ⚡ Fun fact **I love to travel and play guitar**
 - 📫 How to reach me **royswapnil07@gmail.com**
 
