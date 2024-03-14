@@ -10,12 +10,15 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 
 <p align="left"> <a href="https://twitter.com/thespcrewroy" target="blank"><img src="https://img.shields.io/twitter/follow/thespcrewroy?logo=twitter&style=for-the-badge" alt="thespcrewroy" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
-- 👯 I’m looking for a summer internship 💥
-- 💬 Ask me about **Java & Swift**
-- 🥅 2024 Goals: Build my personal website
-- ⚡ Fun fact **I love to travel and play guitar**
+- 🌍  I'm based in Atlanta, Georgia
+- 🖥️  Check out my portfolio Here! (Still in Development)
+- 🧠 I’m currently working on a [**Random Trivia API iOS App**](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/RandomTriviaAPI)
 - 📫 How to reach me **royswapnil07@gmail.com**
+- 🧠 I’m currently learning **SQLite**
+- 👯 I’m looking for **AI Research**
+- 🥅 2024 Goals: **Build my personal website**
+- ⚡ Fun fact **I love to travel and play guitar**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
