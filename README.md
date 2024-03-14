@@ -4,7 +4,9 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 
 <h3 align="center">A passionate computer science student at the University of Georgia! Go Dawgs!!</h3>
 ---
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thespcrewroy&label=Profile%20views&color=0e75b6&style=flat" alt="thespcrewroy" /> </p>
 
