@@ -1,5 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://github.com/thespcrewroy)
-<h1 align="center">Hi there, I'm Swapnil 👋</h1>
+Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===================================================================================================================================
+
 <h3 align="center">A passionate computer science student at the University of Georgia! Go Dawgs!!</h3>
 ---
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
