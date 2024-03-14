@@ -5,10 +5,11 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 <h3 align="center">A passionate computer science student at the University of Georgia! Go Dawgs!!</h3>
 ---
 
-
+<img align="right" alt="Coding" width="430" height="500" src="https://images.wsj.net/im-568211">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thespcrewroy&label=Profile%20views&color=0e75b6&style=flat" alt="thespcrewroy" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/thespcrewroy" target="blank"><img src="https://img.shields.io/twitter/follow/thespcrewroy?logo=twitter&style=for-the-badge" alt="thespcrewroy" /></a> </p>
 
@@ -20,6 +21,7 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 - 👯 I’m looking for **AI Research**
 - 🥅 2024 Goals: **Build my personal website**
 - ⚡ Fun fact **I love to travel and play guitar**
+
 
 
 <h3 align="left">Connect with me:</h3>
