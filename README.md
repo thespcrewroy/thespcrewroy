@@ -21,6 +21,12 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 - 👯 I’m looking for **AI Research**
 - 🥅 2024 Goals: **Build my personal website**
 - ⚡ Fun fact **I love to travel and play guitar**
+- Tasks:
+    * Combine Tinder and Authfit prj
+    * Fix and finalize cs1302 prj
+    * Integrate info2000 project datastore into ImageSegmentation Prj
+    * Finish website project
+    * Create a VR Project with C++ and Unreal Engine
 
 
 
