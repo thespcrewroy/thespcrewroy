@@ -20,7 +20,7 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 - 🧠 I’m currently learning **SQLite**
 - 👯 I’m looking for **AI Research**
 - 🥅 2024 Goals: **Build my personal website**
-- ⚡ Fun fact **I love card games 🂲 and play guitar 🎸**
+- ⚡ Fun fact **I love card games 🂲 and playing guitar 🎸**
 - Tasks:
     * Combine Tinder and Authfit prj
     * Fix and finalize cs1302 prj
