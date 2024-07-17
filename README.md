@@ -17,9 +17,9 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 - 🖥️  Check out my portfolio [**Here! (Still in Development)**](https://github.com/thespcrewroy/Personal-Webiste)
 - 🧠 I’m currently working on a [**Random Trivia iOS App**](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/RandomTriviaAPI)
 - 📫 How to reach me **royswapnil07@gmail.com**
-- 🧠 I’m currently learning **SQLite**
-- 👯 I’m looking for **AI Research**
-- 🥅 2024 Goals: **Build my personal website**
+- 🧠 I’m currently learning **MERN Stack**
+- 👯 I’m looking for **Research Internships**
+- 🥅 2024 Goals: **Image Segmentation AI App**
 - ⚡ Fun fact **I love card games 🂲 and playing guitar 🎸**
 - Tasks:
     * Combine Tinder and Authfit prj
