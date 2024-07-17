@@ -15,7 +15,7 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 
 - 🌍  I'm based in **Atlanta, Georgia**
 - 🖥️  Check out my portfolio [**Here! (Still in Development)**](https://github.com/thespcrewroy/Personal-Webiste)
-- 🧠 I’m currently working on a [**Random Trivia API iOS App**](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/RandomTriviaAPI)
+- 🧠 I’m currently working on a [**Random Trivia iOS App**](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/RandomTriviaAPI)
 - 📫 How to reach me **royswapnil07@gmail.com**
 - 🧠 I’m currently learning **SQLite**
 - 👯 I’m looking for **AI Research**
