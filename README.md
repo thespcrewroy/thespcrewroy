@@ -46,3 +46,7 @@ Hi, My Name's Swapnil ![](https://user-images.githubusercontent.com/18350557/176
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thespcrewroy&show_icons=true&locale=en" alt="thespcrewroy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespcrewroy&" alt="thespcrewroy" /></p>
+
+---
+### 30NitesOfCode: [Check out my progress!](https://www.codedex.io/@thespcrewroy/30-nites-of-code)  
+  ![@thespcrewroy #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thespcrewroy)
