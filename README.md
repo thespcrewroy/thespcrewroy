@@ -17,13 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🧠 I’m currently learning **MERN Stack**
 - 👯 I’m looking for **Interhsips and Full-Time Oppurtunities**
 - 🥅 2025 Goals: **Get my Security+ Certification**
-- ⚡ Fun fact **my favorite board game is Catan ⚔️🪵🐑🧱**
-- Tasks:
-    * Combine Tinder and Authfit prj
-    * Fix and finalize cs1302 prj
-    * Integrate info2000 project datastore into ImageSegmentation Prj
-    * Finish website project
-    * Create a VR Project with C++ and Unreal Engine
+- ⚡ Fun fact **my favorite board game is Catan 🪵🧱**
 
 
 
