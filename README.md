@@ -11,13 +11,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://twitter.com/thespcrewroy" target="blank"><img src="https://img.shields.io/twitter/follow/thespcrewroy?logo=twitter&style=for-the-badge" alt="thespcrewroy" /></a> </p>
 
 - 🌍  I'm based in **Atlanta, Georgia**
-- 🖥️  Check out my portfolio [**Here! (Still in Development)**](https://github.com/thespcrewroy/Personal-Webiste)
-- 🧠 I’m currently working on **Refactoring My GitHub**
+- 🖥️  Check out my portfolio [**here!**](https://github.com/thespcrewroy/Personal-Webiste)
+- 🧠 I’m currently working on **refactoring my GitHub**
 - 📫 How to reach me **royswapnil07@gmail.com**
 - 🧠 I’m currently learning **MERN Stack**
-- 👯 I’m looking for **Interhsips, Co-Ops, Research, and Full-Time Oppurtunities**
+- 👯 I’m looking for **Interhsips and Full-Time Oppurtunities**
 - 🥅 2025 Goals: **Get my Security+ Certification**
-- ⚡ Fun fact **My favorite board game is Catan ⚔️🪵🐑🧱**
+- ⚡ Fun fact **my favorite board game is Catan ⚔️🪵🐑🧱**
 - Tasks:
     * Combine Tinder and Authfit prj
     * Fix and finalize cs1302 prj
