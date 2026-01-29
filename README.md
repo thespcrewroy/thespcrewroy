@@ -12,12 +12,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🌍  I'm based in **Atlanta, Georgia**
 - 🖥️  Check out my portfolio [**Here! (Still in Development)**](https://github.com/thespcrewroy/Personal-Webiste)
-- 🧠 I’m currently working on a [**Random Trivia iOS App**](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/RandomTriviaAPI)
+- 🧠 I’m currently working on **Refactoring My GitHub**
 - 📫 How to reach me **royswapnil07@gmail.com**
 - 🧠 I’m currently learning **MERN Stack**
-- 👯 I’m looking for **Research Internships**
-- 🥅 2024 Goals: **Image Segmentation AI App**
-- ⚡ Fun fact **I love card games 🂲 and playing guitar 🎸**
+- 👯 I’m looking for **Interhsips, Co-Ops, Research, and Full-Time Oppurtunities**
+- 🥅 2025 Goals: **Get my Security+ Certification**
+- ⚡ Fun fact **My favorite board game is Catan ⚔️🪵🐑🧱**
 - Tasks:
     * Combine Tinder and Authfit prj
     * Fix and finalize cs1302 prj
