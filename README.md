@@ -15,9 +15,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🧠 I’m currently working on **refactoring my GitHub**
 - 📫 How to reach me **royswapnil07@gmail.com**
 - 🧠 I’m currently learning **MERN Stack**
-- 👯 I’m looking for **Interhsips, Co-Ops, and Full-Time Oppurtunities**
+- 👯 I’m looking for **Interhsips and Full-Time Oppurtunities**
 - 🥅 2025 Goals: **Get my Security+ Certification**
-- ⚡ Fun fact **my favorite board game is Catan 🪵🧱**
+- ⚡ Fun fact **my favorite board game is Catan 🐑🪨🪵🧱**
 
 
 
